@@ -92,4 +92,4 @@ MIT
 
 ## Author
 
-Massine Boulanouar - massineboulanouar-droid on GitHub
+Massine Boulanouar - massineeffect on GitHub
